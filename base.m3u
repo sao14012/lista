@@ -389,7 +389,7 @@ Pack Futbol Argentino
 #EXTINF:-1 group-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png"
 
 
-#EXTINF:-1 tvg-id="0404" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Pack Fútbol Argentino", TNT Sports Premium FHD
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Pack Fútbol Argentino", TNT Sports Premium FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fb56301bc7687baf0b1a61def9a007a:947d2294ba67256827e8e97f267e71e0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
@@ -404,7 +404,7 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 
-#EXTINF:-1 tvg-id="1418" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Pack Fútbol Argentino", ESPN Premium FHD
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Pack Fútbol Argentino", ESPN Premium FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c502892e037a9f34827147b2b24e42cf":"2531bd34bec6c0e8fa4e07aedb261ade"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
@@ -597,7 +597,7 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSp
 #KODIPROP:inputstream.adaptive.license_key={"0b1e6825350fa1bc0032f8f36287e006":"11fc540a4539d18f91cd403a5ed42284"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-#EXTINF:-1 tvg-id="TyC Sports HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png" group-title="Deportes",TyC Sports HD
+#EXTINF:-1 tvg-id="0409" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png" group-title="Deportes",TyC Sports HD
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
  
@@ -605,7 +605,7 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport
 #KODIPROP:inputstream.adaptive.license_key={"e7880e1b0d50ca324646b9d73d781e1f":"2bef2d7912ee52310d421c1d7756d072"} 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-#EXTINF:-1 tvg-id="0409" tvg-logo="https://i.imgur.com/qeZwmix.jpeg" group-title="Deportes",TyC Sports Internacional
+#EXTINF:-1 tvg-id="TyC Sports HD.uy" tvg-logo="https://i.imgur.com/qeZwmix.jpeg" group-title="Deportes",TyC Sports Internacional
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 
 #EXTINF:-1 tvg-id="TyC 24" tvg-name="TyC 24" tvg-logo="https://i.ibb.co/gGbp2pF/tyc-2026.png" group-title="Deportes",TyC 24
@@ -973,7 +973,37 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/&User-Agent=AivAndroidPlayer/1.0%20(AndroidDevice)
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT Sports 1 UK" tvg-logo="https://i.imgur.com/1i9ivaB.jpeg" group-title="Deportes",TNT SPORTS 1 UK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTHTTP:{"user-agent":"AivAndroidPlayer/1.0 (AndroidDevice)","referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT Sports 2 UK" tvg-logo="https://i.imgur.com/AawxYGx.jpeg" group-title="Deportes",TNT SPORTS 2 UK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTHTTP:{"user-agent":"AivAndroidPlayer/1.0 (AndroidDevice)","referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT Sports 3 UK" tvg-logo="https://i.imgur.com/kmVJgQX.jpeg" group-title="Deportes",TNT SPORTS 3 UK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTHTTP:{"user-agent":"AivAndroidPlayer/1.0 (AndroidDevice)","referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT Sports 4 UK" tvg-logo="https://i.imgur.com/xIDOAIk.jpeg" group-title="Deportes",TNT SPORTS 4 UK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTHTTP:{"user-agent":"AivAndroidPlayer/1.0 (AndroidDevice)","referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 LPF Play
 
