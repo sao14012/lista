@@ -465,10 +465,6 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.imgur.com/eBYBgnn.png" group-title="Deportes",ESPN 5 Sur
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=4e126297fc7af35c736bdffe98eecaaa&key=fdb0091cf67d9c596dbfb07cf6f4c8f5
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/manifest.mpd
 
 #EXTINF:-1 tvg-id="0416" tvg-logo="https://i.imgur.com/dk8AYkV.png" group-title="Deportes",ESPN 6 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -495,13 +491,6 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.m
 
 
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Deportes",ESPN Sur
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mundodeportes.online/pandatv/flow/keys.php?key=b3e4e74ae2080b137e68bbd0ef8a7e05&keyid=cb004fb100bd92f23793562891e3236b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f2e12c72e1a011be0569fbd9ca486ab:1273deabb3c043560fe264dd2b1690f1   
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png" group-title="Deportes",ESPN 2 🇺🇾 
@@ -509,10 +498,6 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-893
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png" group-title="Deportes",ESPN 2 Sur
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mundodeportes.online/pandatv/flow/keys.php?keyid=a81ee4a694fecd6aa8a682e5024b313c&key=6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -529,37 +514,7 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.py/
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Deportes",ESPN 🇲🇽
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=58b6ac8e07d354b178255e03b9d0f819&keyid%5B%5D=52358519f886446d82834a803b36f796
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv
-http://147.78.1.28/xview/espn_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png" group-title="Deportes",ESPN 2 🇲🇽
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=58b6ac8e07d354b178255e03b9d0f819&keyid%5B%5D=52358519f886446d82834a803b36f796
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv
-http://147.78.1.28/xview/espn_2_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png" group-title="Deportes",ESPN 3 🇲🇽
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=232b1f450f2e37f47fdd5b678a8a546d&keyid%5B%5D=0c39778fe8fb4f9f8574016b3d4ae2ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv
-http://147.78.1.28/xview/espn_3_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://wvusports.com/images/2024/8/12/ESPN_PLUS_FC_NEG_8_.png" group-title="Deportes",ESPN 4 🇲🇽
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=232b1f450f2e37f47fdd5b678a8a546d&keyid%5B%5D=0c39778fe8fb4f9f8574016b3d4ae2ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv
-http://147.78.1.28/xview/espn_plus_hd.mpd
 
 #EXTINF:-1 tvg-id="1436" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",FOX Sports 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
