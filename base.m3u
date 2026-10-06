@@ -424,7 +424,7 @@ Deportes
 #EXTINF:-1 group-logo="https://i.imgur.com/EU6cNrE.png"
 
 
-#EXTINF:-1 tvg-id="1411" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d079ffa3757e8335611fc48be6ba47ff":"05059d1cb21b6708a55e9c26fb38e2f3"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
@@ -1064,7 +1064,7 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 
 
-#EXTINF:-1  tvg-id="AMC Series.uy" tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine + Series",AMC Series 
+#EXTINF:-1  tvg-id="AmcSeries.ar" tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine + Series",AMC Series 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eede4d68b8f02d26fe3f59d2125b56e2":"2f064e1c42bd2ec12bc98d02eb62f06e"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
@@ -1620,6 +1620,12 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/Di
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
 
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://i.imgur.com/hbyhWNR.jpeg" group-title="Novelas + Variedades",¡HOLA!TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4db9994d2578f4a5f90dbab82b0305d3":"68a48d4557690d54ee82b67597993491"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
 #EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ENTMN.png" group-title="Novelas + Variedades",E-Entertaiment 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1697,6 +1703,13 @@ https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c6eds/History_2/SA_Live_dash_enc/History
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+
+#EXTINF:-1 tvg-id="SunChannel.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/sun-channel-ar.png" group-title="Novelas + Variedades",Sun Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"997776e5454ed2c20d1cf82cf11e79b4":"403559af86e7b8b578f19205f9cdc6f0"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://{{SERVIDOR}}/tok_{{TOKEN}}/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
 
 
 Música
